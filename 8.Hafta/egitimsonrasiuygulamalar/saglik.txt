@@ -1,0 +1,12 @@
+kullanici adi: sena
+kullanicinin yas, kilo, boy ilgisi: 25, 73.0, 1.65
+kullanicini vucut kitle indexi: 26.8
+deger araligi: fazla kilolu
+olusturma tarihi: Sun Apr 20 13:57:03 2025
+--------------------
+kullanici adi: buse
+kullanicinin yas, kilo, boy ilgisi: 25, 60.0, 1.62
+kullanicini vucut kitle indexi: 22.9
+deger araligi: normal kilolu
+olusturma tarihi: Sun Apr 20 13:57:14 2025
+--------------------
